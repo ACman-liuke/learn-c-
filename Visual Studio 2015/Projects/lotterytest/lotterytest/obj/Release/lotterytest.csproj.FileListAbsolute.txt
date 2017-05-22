@@ -1,0 +1,9 @@
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\lotterytest\lotterytest\bin\Release\lotterytest.exe.config
+C:\Users\摇了摇头oO\Documents\Visual Studio 2015\Projects\lotterytest\lotterytest\bin\Release\lotterytest.exe
+C:\Users\摇了摇头oO\Documents\Visual Studio 2015\Projects\lotterytest\lotterytest\bin\Release\lotterytest.pdb
+C:\Users\摇了摇头oO\Documents\Visual Studio 2015\Projects\lotterytest\lotterytest\bin\Release\GmMessageApi.dll
+C:\Users\摇了摇头oO\Documents\Visual Studio 2015\Projects\lotterytest\lotterytest\bin\Release\Newtonsoft.Json.dll
+C:\Users\摇了摇头oO\Documents\Visual Studio 2015\Projects\lotterytest\lotterytest\bin\Release\GmMessageApi.pdb
+C:\Users\摇了摇头oO\Documents\Visual Studio 2015\Projects\lotterytest\lotterytest\bin\Release\Newtonsoft.Json.xml
+C:\Users\摇了摇头oO\Documents\Visual Studio 2015\Projects\lotterytest\lotterytest\obj\Release\lotterytest.exe
+C:\Users\摇了摇头oO\Documents\Visual Studio 2015\Projects\lotterytest\lotterytest\obj\Release\lotterytest.pdb

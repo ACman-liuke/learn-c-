@@ -1,0 +1,14 @@
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MagicClock\MagicClock\bin\Debug\MagicClock.exe.config
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MagicClock\MagicClock\bin\Debug\MagicClock.exe
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MagicClock\MagicClock\bin\Debug\MagicClock.pdb
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MagicClock\MagicClock\obj\Debug\MagicClock.csprojResolveAssemblyReference.cache
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MagicClock\MagicClock\obj\Debug\MagicClock.Form1.resources
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MagicClock\MagicClock\obj\Debug\MagicClock.Properties.Resources.resources
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MagicClock\MagicClock\obj\Debug\MagicClock.csproj.GenerateResource.Cache
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MagicClock\MagicClock\obj\Debug\MagicClock.exe
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MagicClock\MagicClock\obj\Debug\MagicClock.pdb
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MagicClock\MagicClock\bin\Debug\CSkin.dll
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MagicClock\MagicClock\bin\Debug\CSkin.xml
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MagicClock\MagicClock\obj\Debug\MagicClock.Form2.resources
+C:\Users\摇了摇头oO\Documents\Visual Studio 2015\Projects\MagicClock\MagicClock\obj\Debug\MagicClock.Form3.resources
+C:\Users\摇了摇头oO\Documents\Visual Studio 2015\Projects\MagicClock\MagicClock\obj\Debug\MagicClock.Form4.resources

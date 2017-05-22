@@ -1,0 +1,13 @@
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MP4test\MP4test\bin\Debug\MP4test.exe.config
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MP4test\MP4test\bin\Debug\MP4test.exe
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MP4test\MP4test\bin\Debug\MP4test.pdb
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MP4test\MP4test\bin\Debug\Interop.WMPLib.dll
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MP4test\MP4test\bin\Debug\AxInterop.WMPLib.dll
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MP4test\MP4test\obj\Debug\Interop.WMPLib.dll
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MP4test\MP4test\obj\Debug\AxInterop.WMPLib.dll
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MP4test\MP4test\obj\Debug\MP4test.csproj.ResolveComReference.cache
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MP4test\MP4test\obj\Debug\MP4test.Properties.Resources.resources
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MP4test\MP4test\obj\Debug\MP4test.csproj.GenerateResource.Cache
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MP4test\MP4test\obj\Debug\MP4test.exe
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\MP4test\MP4test\obj\Debug\MP4test.pdb
+C:\Users\摇了摇头oO\Documents\Visual Studio 2015\Projects\MP4test\MP4test\obj\Debug\MP4test.MyMediaPlayer.resources

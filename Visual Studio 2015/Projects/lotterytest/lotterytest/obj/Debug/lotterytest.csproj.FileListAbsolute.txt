@@ -1,0 +1,10 @@
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\lotterytest\lotterytest\bin\Debug\lotterytest.exe.config
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\lotterytest\lotterytest\bin\Debug\lotterytest.exe
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\lotterytest\lotterytest\bin\Debug\lotterytest.pdb
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\lotterytest\lotterytest\bin\Debug\GmMessageApi.dll
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\lotterytest\lotterytest\bin\Debug\Newtonsoft.Json.dll
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\lotterytest\lotterytest\bin\Debug\GmMessageApi.pdb
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\lotterytest\lotterytest\bin\Debug\Newtonsoft.Json.xml
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\lotterytest\lotterytest\obj\Debug\lotterytest.exe
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\lotterytest\lotterytest\obj\Debug\lotterytest.pdb
+C:\Users\摇了摇头oO\Documents\Visual Studio 2015\Projects\lotterytest\lotterytest\obj\Debug\lotterytest.csprojResolveAssemblyReference.cache

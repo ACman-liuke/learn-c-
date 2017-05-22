@@ -1,0 +1,10 @@
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\breakthrouthtest\breakthrouthtest\bin\Debug\breakthrouthtest.exe.config
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\breakthrouthtest\breakthrouthtest\bin\Debug\breakthrouthtest.exe
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\breakthrouthtest\breakthrouthtest\bin\Debug\breakthrouthtest.pdb
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\breakthrouthtest\breakthrouthtest\bin\Debug\GmMessageApi.dll
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\breakthrouthtest\breakthrouthtest\bin\Debug\Newtonsoft.Json.dll
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\breakthrouthtest\breakthrouthtest\bin\Debug\GmMessageApi.pdb
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\breakthrouthtest\breakthrouthtest\bin\Debug\Newtonsoft.Json.xml
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\breakthrouthtest\breakthrouthtest\obj\Debug\breakthrouthtest.csprojResolveAssemblyReference.cache
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\breakthrouthtest\breakthrouthtest\obj\Debug\breakthrouthtest.exe
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\breakthrouthtest\breakthrouthtest\obj\Debug\breakthrouthtest.pdb

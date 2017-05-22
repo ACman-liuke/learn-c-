@@ -1,0 +1,8 @@
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\JsonFileExtraction\JsonFileExtraction\bin\Debug\JsonFileExtraction.exe.config
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\JsonFileExtraction\JsonFileExtraction\bin\Debug\JsonFileExtraction.exe
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\JsonFileExtraction\JsonFileExtraction\bin\Debug\JsonFileExtraction.pdb
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\JsonFileExtraction\JsonFileExtraction\obj\Debug\JsonFileExtraction.JsonFileExtraction.resources
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\JsonFileExtraction\JsonFileExtraction\obj\Debug\JsonFileExtraction.Properties.Resources.resources
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\JsonFileExtraction\JsonFileExtraction\obj\Debug\JsonFileExtraction.csproj.GenerateResource.Cache
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\JsonFileExtraction\JsonFileExtraction\obj\Debug\JsonFileExtraction.exe
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\JsonFileExtraction\JsonFileExtraction\obj\Debug\JsonFileExtraction.pdb

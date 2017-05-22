@@ -1,0 +1,13 @@
+c:\documents\visual studio 2015\Projects\tset\tset\bin\Debug\tset.exe.config
+c:\documents\visual studio 2015\Projects\tset\tset\bin\Debug\tset.exe
+c:\documents\visual studio 2015\Projects\tset\tset\bin\Debug\tset.pdb
+c:\documents\visual studio 2015\Projects\tset\tset\obj\Debug\tset.exe
+c:\documents\visual studio 2015\Projects\tset\tset\obj\Debug\tset.pdb
+C:\documents\visual studio 2015\Projects\daemon\daemon\bin\Debug\tset\tset\bin\Debug\tset.exe.config
+C:\documents\visual studio 2015\Projects\daemon\daemon\bin\Debug\tset\tset\obj\Debug\tset.exe
+C:\documents\visual studio 2015\Projects\daemon\daemon\bin\Debug\tset\tset\obj\Debug\tset.pdb
+C:\documents\visual studio 2015\Projects\daemon\daemon\bin\Debug\tset\tset\bin\Debug\tset.exe
+C:\documents\visual studio 2015\Projects\daemon\daemon\bin\Debug\tset\tset\bin\Debug\tset.pdb
+C:\documents\visual studio 2015\Projects\daemon\daemon\bin\Debug\tset\tset\obj\Debug\tset.csprojResolveAssemblyReference.cache
+C:\documents\visual studio 2015\Projects\daemon\daemon\bin\Debug\tset\tset\bin\Debug\GmMessageApi.dll
+C:\documents\visual studio 2015\Projects\daemon\daemon\bin\Debug\tset\tset\bin\Debug\GmMessageApi.pdb

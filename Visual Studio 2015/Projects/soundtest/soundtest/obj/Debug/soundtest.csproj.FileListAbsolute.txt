@@ -1,0 +1,8 @@
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\soundtest\soundtest\bin\Debug\soundtest.exe.config
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\soundtest\soundtest\bin\Debug\soundtest.exe
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\soundtest\soundtest\bin\Debug\soundtest.pdb
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\soundtest\soundtest\obj\Debug\soundtest.csprojResolveAssemblyReference.cache
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\soundtest\soundtest\obj\Debug\Interop.MediaPlayer.dll
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\soundtest\soundtest\obj\Debug\soundtest.csproj.ResolveComReference.cache
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\soundtest\soundtest\obj\Debug\soundtest.exe
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\soundtest\soundtest\obj\Debug\soundtest.pdb

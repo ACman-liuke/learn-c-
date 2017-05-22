@@ -1,0 +1,9 @@
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\bin\Debug\tset\tset\bin\Release\tset.exe.config
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\bin\Debug\tset\tset\bin\Release\tset.exe
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\bin\Debug\tset\tset\bin\Release\tset.pdb
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\bin\Debug\tset\tset\bin\Release\GmMessageApi.dll
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\bin\Debug\tset\tset\bin\Release\Newtonsoft.Json.dll
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\bin\Debug\tset\tset\bin\Release\GmMessageApi.pdb
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\bin\Debug\tset\tset\bin\Release\Newtonsoft.Json.xml
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\bin\Debug\tset\tset\obj\Release\tset.exe
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\bin\Debug\tset\tset\obj\Release\tset.pdb

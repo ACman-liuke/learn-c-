@@ -1,0 +1,6 @@
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\killprocess\killprocess\bin\Debug\killprocess.exe.config
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\killprocess\killprocess\bin\Debug\killprocess.exe
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\killprocess\killprocess\bin\Debug\killprocess.pdb
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\killprocess\killprocess\obj\Debug\killprocess.exe
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\killprocess\killprocess\obj\Debug\killprocess.pdb
+C:\Users\摇了摇头oO\Documents\Visual Studio 2015\Projects\killprocess\killprocess\obj\Debug\killprocess.csprojResolveAssemblyReference.cache
